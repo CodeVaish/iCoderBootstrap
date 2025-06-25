@@ -2,7 +2,7 @@
 
 iCoder is a sleek, responsive tech blogging website created using only **HTML, CSS, and Bootstrap 5**. It's designed for developers, coders, and tech writers who want a modern, professional-looking platform to showcase blogs, tutorials, and articles.
 
-🔗  Live demo  https://codevaish.github.io/icoderBootstrap/
+🔗  Live demo https://i-coder-9901c.web.app
 
 
 
